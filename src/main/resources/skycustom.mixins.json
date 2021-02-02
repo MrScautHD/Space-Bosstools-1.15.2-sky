@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "net.mcreator.skycustom.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "skycustom.refmap.json",
+  "mixins": [
+
+  ],
+  "client":[
+    "MixinWorldRenderer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8.1"
+}
