@@ -12,15 +12,6 @@
       "metadata": {
         "ep": false
       }
-    },
-    {
-      "name": "MixinWorldRenderer",
-      "type": "code",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "mixin_world_renderer"
     }
   ],
   "variable_elements": [],
